@@ -1,5 +1,5 @@
 # GPT-3 UI/UX Frontend Projec
-This project focuses on creating a modern UI/UX using the power of GPT-3. The design is pixel-perfect, crafted from a Figma design that can be found [here](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?mode=dev).
+This project focuses on creating a modern UI/UX pixel-perfect frontend page, crafted from a Figma design that can be found [here](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?mode=dev).
 
 ## Technologies Used
 
