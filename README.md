@@ -1,4 +1,4 @@
-# GPT-3 UI/UX Frontend Projec
+# GPT-3 UI/UX Frontend Project
 This project focuses on creating a modern UI/UX pixel-perfect frontend page, crafted from a Figma design that can be found [here](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?mode=dev).
 
 ## Technologies Used
@@ -30,3 +30,4 @@ The project incorporates animations for a smooth user experience. Media queries 
 
 Special thanks to the Figma design team for providing the creative inspiration for this project.
 
+Licensed under the MIT License.
